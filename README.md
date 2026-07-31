@@ -5,8 +5,7 @@
 **Disciplina:** Comutação de Redes Locais (TCN.0639)
 **Curso:** Redes de Computadores — IFRO, Campus Porto Velho Zona Norte
 **Professor:** Jhordano Malacarne Bravim
-**Aluno:** *(escreva seu nome aqui)*
-**Data de entrega:** *(escreva a data aqui)*
+**Aluno:** *Saulo Viana de Queiroz*
 
 ---
 
@@ -195,8 +194,8 @@ VLAN padrão de fábrica dos switches, e a prática comum é não usá-la para t
 | Arquivo | Conteúdo |
 |---|---|
 | `README.md` | Este documento |
-| *(ajuste com o nome real do arquivo)* | Imagem do diagrama do modelo A |
-| *(ajuste com o nome real do arquivo)* | Imagem do diagrama do modelo B |
+| *VLAN Network Architecture classic* | Imagem do diagrama do modelo A |
+| *VLAN Routing Architecture collapsed* | Imagem do diagrama do modelo B |
 
 ---
 
